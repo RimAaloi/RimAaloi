@@ -52,7 +52,7 @@
 
 ## 🌹 **How to Reach Me**
 - 📧 **Email**: [aaloirim@gmail.com](mailto:aaloirim@gmail.com)  
-- 🌐 **LinkedIn**: [https://www.linkedin.com/in/rim-aaloi/](https://linkedin.com/in/https://www.linkedin.com/in/rim-aaloi) 
+- 🌐 **LinkedIn**: [https://www.linkedin.com/in/rim-aaloi/](https://www.linkedin.com/in/rim-aaloi) 
 
 
 
