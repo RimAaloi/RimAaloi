@@ -2,8 +2,6 @@
 
 
 
-
-
 ## 🎀 **About Me** 
  
 - 🎓 **Education**:  
@@ -23,10 +21,11 @@
 - ...../////
 
 ### ⚙️ **Technologies**
-- 💎 **Blockchain**
-- 📱 **NFC**
 - 🎨 **UI Tools**
-- 🔧 **Dev Tools**  
+- 🔧 **Dev Tools**
+- - 📱 **NFC**
+- 💎 **Blockchain**
+- ......//////
 
 ---
 
