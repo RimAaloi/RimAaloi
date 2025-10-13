@@ -10,7 +10,7 @@
   - 📚 **License** in Mathematical and Computer Sciences, **Kenitra**  
   - 💻 **BTS** in Information Systems Development, **Laâyoune**  
 
-- 💡 I love .....  
+  
 
 ---
 
@@ -19,22 +19,18 @@
 - 🔸 **Python**  
 - 🔸 **JavaScript**  
 - 🔸 **PHP**
-- ...../////
+
 
 ### ⚙️ **Technologies**
 - 🎨 **UI Tools**
 - 🔧 **Dev Tools**
 - - 📱 **NFC**
 - 💎 **Blockchain**
-- ......//////
+
 
 ---
 
-## ✨ **Featured Projects**
 
-🚀:...........
-
-🎮:.......
 
 <p align="center">
   <img src="https://media.giphy.com/media/l41YxqakBuR2G69Rm/giphy.gif" width="200" alt="Thank you">
