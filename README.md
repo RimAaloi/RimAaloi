@@ -28,13 +28,6 @@
 - 💎 **Blockchain**
 
 
----
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YxqakBuR2G69Rm/giphy.gif" width="200" alt="Thank you">
-</p>
 
 ---
 
