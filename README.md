@@ -21,12 +21,6 @@
 - 🔸 **PHP**
 
 
-### ⚙️ **Technologies**
-- 🎨 **UI Tools**
-- 🔧 **Dev Tools**
-- - 📱 **NFC**
-- 💎 **Blockchain**
-
 
 
 ---
