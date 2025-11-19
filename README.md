@@ -20,9 +20,6 @@
 - 🔸 **JavaScript**  
 - 🔸 **PHP**
 
-
-
-
 ---
 
 ## 🌈 **GitHub Stats**  
